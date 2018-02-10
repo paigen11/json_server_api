@@ -1,0 +1,26 @@
+{
+  "name": "json_server_api",
+  "version": "1.0.0",
+  "description": "Mock api server with data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paigen11/json_server_api.git"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Paige Niedringhaus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paigen11/json_server_api/issues"
+  },
+  "homepage": "https://github.com/paigen11/json_server_api#readme",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "json-server": "^0.12.1"
+  }
+}

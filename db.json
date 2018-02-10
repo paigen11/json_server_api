@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Paige",
+      "last_name": "Niedringhaus",
+      "email": "paigen11@gmail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Casey",
+      "last_name": "Rogers",
+      "email": "casey.rogers@gmail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Andrew",
+      "last_name": "Mounib",
+      "email": "andrew_mounibs@gmail.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Mayank",
+      "last_name": "Singh",
+      "email": "mayank_gifmaster_s@gmail.com"
+    },
+    {
+      "id": 5,
+      "first_name": "Matt",
+      "last_name": "Westbrook",
+      "email": "mwestbrook@gmail.com"
+    }
+  ]
+}
